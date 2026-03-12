@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm [Your Name] 👋</h1>
+<h1 align="center">Hey, I'm Artium Johnny Shappo 👋</h1>
 
 <p align="center">
   Cyber Security Engineer • Security Enthusiast • Builder
