@@ -19,15 +19,7 @@
 
 ---
 
-### 🚀 A Few Things I Like
-✨ Cyber Security  
-☁️ Cloud & DevOps  
-🤖 AI & Automation  
-🧩 Architecture & Developer Tooling  
-
----
-
 ### 📌 Welcome
-Thanks for stopping by — feel free to explore my projects and repositories 👀
+Thanks for stopping by - feel free to explore my projects and repositories 👀
 
 ---
