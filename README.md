@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Artium Johnny Shappo 👋</h1>
 
 <p align="center">
-  Cyber Security Engineer • Security Enthusiast • Builder
+  • Cyber Security Engineer •
 </p>
 
 ---
