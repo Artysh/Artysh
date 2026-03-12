@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1 align="center">Hey, I'm Artium Johnny Shappo 👋</h1>
 
-<!--
-**Artysh/Artysh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Welcome to my GitHub profile 🚀
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+🔐 Cyber Security Engineer  
+💻 Passionate about technology, security, and building cool things  
+⚙️ Interested in secure development, cloud, automation, and modern applications  
+
+---
+
+### 🛠️ Tech Stack
+`Python` `JavaScript` `TypeScript` `Node.js` `React`  
+`AWS` `Docker` `Kubernetes` `Linux` `GitHub Actions`
+
+---
+
+### 🚀 A Few Things I Like
+✨ Cyber Security  
+☁️ Cloud & DevOps  
+🤖 AI & Automation  
+🧩 Architecture & Developer Tooling  
+
+---
+
+### 📌 Welcome
+Thanks for stopping by — feel free to explore my projects and repositories 👀
+
+---
