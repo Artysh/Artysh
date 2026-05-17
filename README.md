@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Artium Johnny Shappo 👋</h1>
+<h1 align="center">Artium Johnny Shappo 👋</h1>
 
 <p align="center">
   • Cyber Security Engineer •
