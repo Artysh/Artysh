@@ -9,7 +9,7 @@
 ### 👨‍💻 About Me  
 💻 Passionate about technology, security, and building impactful solutions.\
 ⚙️ Interested in secure development, cloud, automation, DevSecOps, infrastructure, and modern applications.\
-Focused on security, cloud, automation, and modern engineering practices.\
+Focused on security, cloud, automation, and modern engineering practices.
 
 ---
 
